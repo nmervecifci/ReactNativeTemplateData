@@ -1,0 +1,7 @@
+    Farid FArJat
+    // flex-start:sol
+    // flex-end: sağ
+    // center
+    flex: 1,
+    alignItems: 'center',     // satır düzleminde
+    justifyContent: 'center', // sutun düzleminde
